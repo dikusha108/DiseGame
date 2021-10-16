@@ -1,0 +1,37 @@
+2021-10-16 15:03:33,630 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-10-16 16:25:06,172 [Worker-35: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-10-16 16:25:07,073 [Worker-35: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.diksonyacompany:QuadraticEquation:1.0-SNAPSHOT @ C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\pom.xml.
+2021-10-16 16:25:07,773 [Worker-35: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuadraticEquation/src/main/java
+2021-10-16 16:25:07,782 [Worker-35: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /QuadraticEquation/src/test/java
+2021-10-16 16:25:07,868 [Worker-35: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-10-16 16:25:08,027 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:25:08,027 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:25:08,029 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:25:08,029 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:32:17,950 [Worker-38: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:32:17,951 [Worker-38: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:32:17,952 [Worker-38: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:32:17,952 [Worker-38: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:33:14,363 [Worker-39: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:33:14,364 [Worker-39: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:33:14,365 [Worker-39: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:33:14,365 [Worker-39: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:33:51,337 [Worker-41: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:33:51,337 [Worker-41: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:33:51,338 [Worker-41: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:33:51,339 [Worker-41: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:34:24,072 [Worker-40: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:34:24,073 [Worker-40: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:34:24,074 [Worker-40: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:34:24,074 [Worker-40: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:35:02,367 [Worker-42: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:35:02,367 [Worker-42: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:35:02,369 [Worker-42: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:35:02,369 [Worker-42: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:35:12,953 [Worker-36: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:35:12,953 [Worker-36: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:35:12,954 [Worker-36: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:35:12,954 [Worker-36: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\test\resources
+2021-10-16 16:35:18,993 [Worker-35: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 16:35:18,993 [Worker-35: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\сонечка\Documents\NetBeansProjects\QuadraticEquation\src\main\resources
+2021-10-16 16:35:18,995 [Worker-35: Launching QuadraticEquation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

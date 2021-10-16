@@ -1,0 +1,57 @@
+import java.util.Random;
+import java.util.Scanner;
+
+public class DiceGame {
+	
+	int players;
+	int dices;
+	int[] playersSum;
+	
+	public void setConfiguration() {
+		int N;
+		int k;
+		Scanner console = new Scanner(System.in);
+		System.out.println("Enter the number of players: ");
+		N = console.nextInt();
+		System.out.println("Enter the number of dices: ");
+		k = console.nextInt();
+		/*Set number of players and dices*/
+		this.players = N;
+		this.dices = k;
+		this.playersSum = new int[N];
+		/*Set start sum of points*/
+		for(int i=0; i<N;i++) {
+			playersSum[i]=0;
+		}
+	}
+	
+	public int[] rollTheDice() {
+		Random random = new Random();
+		int[] rollResult = new int[dices];
+		for (int i=0; i<dices; i++) {
+			rollResult[i]=random.nextInt(6) + 1;
+		}
+		return rollResult;
+	}
+	
+	public int getSum(int[] array) {
+		int sum=0;
+		for (int i=0; i<dices; i++) {
+			sum+=array[i];
+		}
+		return sum;
+	}
+	
+	public void getResult() {
+		System.out.println("Rolling the dice!");
+		System.out.println(rollTheDice());
+		System.out.println("Your sum: "+getSum(rollTheDice()));
+	}
+	
+	public static void main() {
+		
+	}
+
+	
+	
+}
